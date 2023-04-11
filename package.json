@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Slowpoke501/WebServer-app/issues"
   },
-  "homepage": "https://github.com/Slowpoke501/WebServer-app#readme"
+  "homepage": "https://github.com/Slowpoke501/WebServer-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
